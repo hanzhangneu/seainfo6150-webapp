@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="647a2f1c-d1fc-4183-87d8-35bf2066a485" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Article/Article.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Article/Article.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1X65QkwsHZAmt4USfc74qG3sScU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="647a2f1c-d1fc-4183-87d8-35bf2066a485" name="Default Changelist" comment="" />
+      <created>1580353691385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580353691385</updated>
+      <workItem from="1580353707278" duration="372000" />
+      <workItem from="1580354671703" duration="70000" />
+      <workItem from="1580355780666" duration="74000" />
+      <workItem from="1580357851069" duration="397000" />
+      <workItem from="1580362281542" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580354740509">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1580354740509" />
+    <state x="263" y="41" key="CommitChangelistDialog2" timestamp="1580355831576">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="263" y="41" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1580355831576" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom" timestamp="1580358270719">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1580358270719" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center" timestamp="1580358270717">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1580358270717" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left" timestamp="1580358270717">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1580358270717" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right" timestamp="1580358270718">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1580358270718" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580683811217">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580353753517" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1580683811217" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1580357870037" />
+    <state x="397" y="283" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1580362282106" />
+    <state x="503" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580354737139">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="503" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826@0.23.1440.826" timestamp="1580354737139" />
+  </component>
+</project>

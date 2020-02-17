@@ -1,7 +1,9 @@
-.container {
+.body {
     list-style: none;
-    padding: 20px;
-    margin: 20px;
-    background: #999;
-    border: 1px dashed #666;
+    background: #999999;
+    border: 1px dashed black;
+    margin: 1em;
+    padding: 0;
+    box-shadow: 0px 10px 20px 4px #888888;
+    border-radius: 1em;
 }
